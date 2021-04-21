@@ -3,6 +3,7 @@
   "version": "3.4.0",
   "private": true,
   "dependencies": {
+    "pdfjs-dist": "2.6.347",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-pdf-highlighter": "^3.4.0"
